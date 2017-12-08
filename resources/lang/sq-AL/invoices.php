@@ -1,0 +1,43 @@
+<?php
+
+return [
+
+    'invoice_number'    => 'Numri i faturës',
+    'invoice_date'      => 'Data e Faturës',
+    'total_price'       => 'Cmimi Total',
+    'due_date'          => 'Data e Duhur',
+    'order_number'      => 'Numri i Porosisë',
+    'bill_to'           => 'Faturë Për',
+
+    'quantity'          => 'Sasia',
+    'price'             => 'Çmimi',
+    'sub_total'         => 'Nëntotali',
+    'tax_total'         => 'Tatimi Gjithsej',
+    'total'             => 'Totali',
+
+    'item_name'         => 'Emri i Artikullit | Emrat e Artikullit',
+
+    'payment_due'       => 'Pagesa e Duhur',
+    'paid'              => 'I paguar',
+    'histories'         => 'Historitë',
+    'payments'          => 'Pagesat',
+    'add_payment'       => 'Shto Pagesë',
+    'mark_paid'         => 'Shënoje të Paguar',
+    'mark_sent'         => 'Shënoje të Dërguar',
+    'download_pdf'      => 'Shkarko PDF',
+    'send_mail'         => 'Dërgo Email',
+
+    'status' => [
+        'draft'         => 'Draft',
+        'sent'          => 'E Dërguar',
+        'viewed'        => 'E Shikuar',
+        'approved'      => 'I Miratuar',
+        'partial'       => 'I pjesshëm',
+        'paid'          => 'I paguar',
+    ],
+
+    'messages' => [
+        'marked_sent'   => 'Fatura shënohet si e dërguar me sukses!',
+    ],
+
+];
